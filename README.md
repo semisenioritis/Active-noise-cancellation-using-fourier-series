@@ -1,4 +1,4 @@
-Abstract
+Abstract:
 Mathematically, the Laplace transform is an integral that converts a function of a real variable (often time) to a function of a complex variable (complex frequency).
 Laplace Transform has a wide range of applications in the domains of engineering. 
 The objective is to implement a Laplace calculator that will transform the difficult differential equations into simple problems 
