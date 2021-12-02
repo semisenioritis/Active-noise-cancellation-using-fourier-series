@@ -1,6 +1,4 @@
 Abstract:
-Mathematically, the Laplace transform is an integral that converts a function of a real variable (often time) to a function of a complex variable (complex frequency).
-Laplace Transform has a wide range of applications in the domains of engineering. 
-The objective is to implement a Laplace calculator that will transform the difficult differential equations into simple problems 
-in the Laplace domain, where solutions can be easily obtained. The Laplace calculator will try to find the Laplace transform of the given function. After entering the function, the user will get the complete solution step by step, so it will be better to understand it.
-It makes the calculations faster and the integral change is displayed in a fraction of seconds." Laplace Transform Calculator " Application (build by using Python) will help future engineers to calculate basic problems so they can save time while solving bigger and complex Laplace equations.
+Mathematically, a fourier series is used to convert a piecewaise continuous periodic function into a infinite summation of a combination of sin and cos functions as well as one constant value.
+Fourier series are used almost everywhere from image analysis, image filtering, optics, signal processing, quantum mechanics, econometrics, shell theory etc.
+The objective of our project is to use fourier series to remove background noise from an audio file. We will be providing two audio files, one with the actual audio from which the background noise is to be removed and the second which will be a blank audio recording with only the background noise. The code will use fourier transform to find the composite waves in both series, remove the common waves present and finally add up all remaining waves to give a noise cancelled audio as an output.
